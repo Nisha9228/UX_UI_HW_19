@@ -300,7 +300,7 @@ body {
     position: relative;
     justify-content: center;
     z-index: 27;
-    padding: 40PX 0PX 40PX 0PX;
+    padding: 40PX 0PX 40PX 10PX;
   }
   .frame-7 {
     display: flex;
