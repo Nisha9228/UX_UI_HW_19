@@ -1346,7 +1346,7 @@ body {
   .design-process {
     justify-content: flex-start;
     gap: 19px;
-    padding: 40px 0px 40px 0px;
+    padding: 40px 0px 40px 10px;
   }
   .frame-7 {
     width: auto;
